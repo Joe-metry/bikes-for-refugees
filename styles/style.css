@@ -96,15 +96,28 @@ p {
 /* Buttons */
 
 .donate-button {
-  background: #ce5f31;
+  background-color: #ce5f31;
+}
+
+.donate-button:hover, .donate-button:focus {
+  background-color: #facbb7;
 }
 
 .donate-bike-today {
-  background: #ce5f31;
+  background-color: #ce5f31;
+}
+
+.donate-bike-today:hover, .donate-bike-today:focus {
+  background-color: #facbb7;
 }
 
 .volunteer-btn {
   color: #ce5f31;
+}
+
+.volunteer-btn:hover, .volunteer-btn:focus {
+  background-color: #776056;
+  color: #e1f3fc;
 }
 
 /* Content */
