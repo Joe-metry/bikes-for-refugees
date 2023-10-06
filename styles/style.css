@@ -96,15 +96,15 @@ p {
 /* Buttons */
 
 .donate-button {
-  background-color: #ce5f31
+  background: #ce5f31;
 }
 
 .donate-bike-today {
-  background-color: #ce5f31
+  background: #ce5f31;
 }
 
 .volunteer-btn {
-  color: #ce5f31
+  color: #ce5f31;
 }
 
 /* Content */
