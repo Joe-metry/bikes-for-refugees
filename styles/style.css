@@ -95,8 +95,17 @@ p {
 
 /* Buttons */
 
-  /* INSERT BUTTON STYLES HERE */
+.donate-button {
+  background-color: #ce5f31
+}
 
+.donate-bike-today {
+  background-color: #ce5f31
+}
+
+.volunteer-btn {
+  color: #ce5f31
+}
 
 /* Content */
 
