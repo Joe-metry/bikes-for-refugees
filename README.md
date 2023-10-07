@@ -1,6 +1,6 @@
-# Bikes For Refugees
+# Bikes For Refugees 
 
-Fun fact, [Bikes For Refugees](https://www.bikesforrefugees.scot/) is a real project, and CYF grads have worked on apps for it for their Final Projects.
+Nice fun fact, [Bikes For Refugees](https://www.bikesforrefugees.scot/) is a real project, and CYF grads have worked on apps for it for their Final Projects.
 
 ## Set up
 
